@@ -3,7 +3,7 @@ An app for daily searching of news, job vacancies, and articles, with automatic 
 
 ## stages
 
-II. **get all pages**:
+III. **send to TG**:
 
 1. Выбираем из файла записанные id
 2. Идём на HH, получаем по запросу данные
@@ -12,4 +12,5 @@ II. **get all pages**:
 5. Выбираем интересующие поля
 6. Идём на страницу вакансии, по значению атрибута через XPAth получаем полное описание
 7. Все данные записываем в файл
+8. Всё отправляем в TG канал
 
