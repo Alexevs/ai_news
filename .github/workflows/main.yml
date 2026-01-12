@@ -30,8 +30,6 @@ jobs:
         curl -sSL https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -o google-chrome.deb
         sudo dpkg -i google-chrome.deb
         sudo apt --fix-broken install
-        # CHROME_DRIVER_VERSION=$(google-chrome-stable --version | sed 's/[^0-9.]//g')
-        # wget https://chromedriver.storage.googleapis.com/${CHROME_DRIVER_VERSION}/chromedriver_linux64.zip
         wget https://github.com/jsnjack/chromedriver/releases/download/v143.0.7499.192/chromedriver-linux64.zip
         unzip chromedriver-linux64.zip
         sudo mv chromedriver /usr/local/bin/chromedriver
