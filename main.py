@@ -6,6 +6,7 @@ import requests
 import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 from datetime import date, datetime
 import time
 from openai import OpenAI
@@ -61,7 +62,11 @@ def update_vacancies_list(item, filename):
     except FileNotFoundError:
         data = []
     
-    driver = webdriver.Chrome()
+    options = Options()
+    options.add_argument("--headless")  # Для работы без UI
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    driver = webdriver.Chrome(options=options)
 
     # Добавляем новые
     employer = item.get('employer', {})
