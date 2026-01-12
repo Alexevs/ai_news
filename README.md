@@ -1,11 +1,16 @@
 # ai_news
-An app for daily searching of news, job vacancies, and articles, with automatic publishing to Telegram
+An app for daily searching of news, job vacancies and articles, with automatic publishing to Telegram
 
+## current stage
+1. Приложение для получения данных о новых вакансиях, анализа описания и отправки в Telegram-канал.
+
+## critical
+Изменение структуры json может поломать выгрузку данных в [Google Spreadsheets](https://docs.google.com/spreadsheets/d/19Z6lb8nu1cSajNb3_CJy-5N6CfYKh679UnwUzcswxRI/edit?usp=sharing)
 ## stages
 
 VI. **almost full pipeline**:
 
-Вся зепочка последовательно работает:
+Вся цепочка последовательно работает:
 
 1. Выбираем из файла записанные id
 2. Идём на HH, получаем по запросу данные
@@ -18,6 +23,13 @@ VI. **almost full pipeline**:
 9. Промт передаётся в LLM, она выдаёт ответ
 10. Записываем ответ, токены, время выполнения, расходы
 11. Всё отправляем в TG канал
+
+## next
+
+Добавить секреты в проект гитхаб
+Оформить main.py
+
+
 
 ## Поддержать
 
