@@ -32,7 +32,7 @@ jobs:
         sudo apt --fix-broken install
         wget https://github.com/jsnjack/chromedriver/releases/download/v143.0.7499.192/chromedriver-linux64.zip
         unzip chromedriver-linux64.zip
-        sudo mv chromedriver /usr/local/bin/chromedriver
+        sudo mv chromedriver-linux64/chromedriver /usr/local/bin/chromedriver
         sudo chmod +x /usr/local/bin/chromedriver
         pip install -r requirements.txt
 
