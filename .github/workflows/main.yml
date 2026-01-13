@@ -43,7 +43,7 @@ jobs:
       run: |
         python main.py
 
-    - name: Commit and push index.html
+    - name: Commit and push vacancies.json
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
