@@ -3456,5 +3456,43 @@
     "Выход_токенов": 977,
     "Время_генерации": 4925,
     "Потрачено": 0.305096
+  },
+  {
+    "id": "129586098",
+    "Название": "Junior Partnership Manager",
+    "От": 700,
+    "До": null,
+    "Валюта": "USD",
+    "Описание": "We are EastTechConnect, a dynamic international recruiting agency connecting top-tier talent with fast-growing digital projects in IT, FinTech, EdTech, Marketplaces, and Telecom sectors. We are currently seeking highly motivated, Thai-fluent professionals to join an exciting international project focused on the vibrant Thai digital entertainment market.\nWe are hiring for two distinct, yet complementary roles: Junior Affiliate Manager/Media Buyer - we welcome applications from entry-level candidates and beginners who possess a strong desire to learn and grow fast. Prior experience is beneficial but not strictly required.\nKey responsibilities:\nPartner Acquisition & Sourcing: Identify, prospect, and onboard new partners, channels, and placement opportunities across the Thai digital landscape, including webmasters, affiliate networks, social media groups, niche Telegram channels, TikTok accounts, and small influencers.\nNegotiation & Deal Making: Negotiate all commercial terms, pricing, placement formats, discounts, and long-term partnership deals with both large affiliate networks and individual channel admins/creators.\nRelationship Management: Manage day-to-day communication, supply necessary promo materials, resolve operational issues promptly, and maintain positive, ongoing relationships for repeat placements and strategic deals.\nCampaign Execution & Tracking: Generate, manage, and track UTM links; request and prepare creative materials as needed. Maintain a detailed tracking sheet and database of high-performing channels and partners.\nPerformance Analysis & Optimization: Monitor key metrics (traffic, clicks, registrations, deposits) and evaluate cost-effectiveness and placement efficiency. Analyze performance data to optimize ongoing campaigns for better results.\nReporting & Strategy: Provide clear daily/weekly reports on campaign performance to the management and marketing teams. Actively look for non-standard advertising spots and strategic opportunities (niche communities, closed chats, entertainment pages, etc.).\nWhat we expect:\nLanguage proficiency in Thai and English.\nConfident user of Google Sheets/Excel for data tracking and analysis.\nStrong negotiation skills and a results-oriented approach.\nAdvantage:\nExperience in the Thailand market is a strong plus.\nExperience in one or more of the following will be a plus: Media Buying, Affiliate Marketing, Influencer Management, or Social Media Advertising.\nFamiliarity with tracking tools (Keitaro / Voluum / similar).\nUnderstanding of key performance metrics (CTR, CPM, ER, Conversions) and UTM tags.\nConditions & Compensation\nFully remote, 5/2 (8-hour work shifts),\nFixed monthly salary is $770 per month (negotiable based on performance and experience after successful probation period),\nTraining provided,\nOpportunities for career growth,\nLong term work,\nFriendly team.\nIf you’re ready to take your career to the next level in the exciting Thai digital market, apply now!",
+    "Кратко": "*Кому подойдёт эта вакансия*: Эта вакансия подойдёт начинающим специалистам в области медиабаинга и аффилиат-маркетинга с знанием тайского языка, но не связана с Prompt-инжинирингом.  \n*Почему она оказалась в выдаче по тематическому запросу*: Вероятно, вакансия попала в выдачу из-за несоответствующей тегизации или ошибки в ключевых словах, так как в описании отсутствуют любые упоминания ИИ, ML, LLM, промтов или связанных с ними технологий.",
+    "Компания": "EastTechConnect Agency",
+    "IT": "Нет",
+    "Опубликовано": "2026-01-19T11:33:20+0300",
+    "Ссылка": "https://hh.ru/vacancy/129586098",
+    "Отправлено": true,
+    "Вход_слов": 466,
+    "Вход_токенов": 4027,
+    "Выход_токенов": 443,
+    "Время_генерации": 4022,
+    "Потрачено": 0.186054
+  },
+  {
+    "id": "129583028",
+    "Название": "AI Engineer (RAG / LLM)",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Ошибка: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@data-qa='vacancy-description']\"}\n  (Session info: chrome=144.0.7559.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception\nStacktrace:\n#0 0x55c6ebdb240a <unknown>\n#1 0x55c6eb7e676b <unknown>\n#2 0x55c6eb837e88 <unknown>\n#3 0x55c6eb8380c1 <unknown>\n#4 0x55c6eb8862c4 <unknown>\n#5 0x55c6eb883760 <unknown>\n#6 0x55c6eb82a7b2 <unknown>\n#7 0x55c6eb82b461 <unknown>\n#8 0x55c6ebd7adf9 <unknown>\n#9 0x55c6ebd7dd5d <unknown>\n#10 0x55c6ebd63b41 <unknown>\n#11 0x55c6ebd7e93b <unknown>\n#12 0x55c6ebd4a870 <unknown>\n#13 0x55c6ebd9f828 <unknown>\n#14 0x55c6ebd9f9fc <unknown>\n#15 0x55c6ebdb1763 <unknown>\n#16 0x7fcf1329caa4 <unknown>\n#17 0x7fcf13329c6c <unknown>\n",
+    "Кратко": "*Кому подойдёт эта вакансия*: Вакансия не может быть проанализирована — описание отсутствует.  \n*Почему она оказалась в выдаче по тематическому запросу*: Скорее всего, это техническая ошибка или некорректный запрос, а не реальная вакансия по Prompt-инжинирингу.",
+    "Компания": "Национальная система платежных карт",
+    "IT": "Нет",
+    "Опубликовано": "2026-01-19T11:06:17+0300",
+    "Ссылка": "https://hh.ru/vacancy/129583028",
+    "Отправлено": true,
+    "Вход_слов": 156,
+    "Вход_токенов": 1899,
+    "Выход_токенов": 261,
+    "Время_генерации": 3104,
+    "Потрачено": 0.099198
   }
 ]
