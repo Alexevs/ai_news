@@ -4140,5 +4140,43 @@
     "Выход_токенов": 983,
     "Время_генерации": 6178,
     "Потрачено": 0.326854
+  },
+  {
+    "id": "129916249",
+    "Название": "AL/ML/Prompt engineer (Python, GPT, LLaMA, Claude, open-source LLM)",
+    "От": null,
+    "До": 200000,
+    "Валюта": "RUR",
+    "Описание": "Основные задачи:\nСоздание и дообучение моделей для работы с изображениями, текстом и аудио\nТочечное дообучение LLM под специализированные задачи\nРазработка и развёртывание API для доступа к обученным агентам\nОптимизация инференса новых и уже работающих связок\nИнтеграция моделей в существующие микросервисы\nТехнические требования:\nУверенное знание Python (asyncio, typing, dataclasses);\nОпыт работы с PyTorch/Transformers/vLLM\nОпыт тонкой настройки и дообучения LLM\nПонимание принципов RAG, LoRA, QLoRA\nНавыки в обработке изображений и OCR/CV задачах (Tesseract, OpenCV, Yolo);\nУмение создавать REST API (FastAPI, Flask)\nПонимание основ работы контейнеров и взаимодействия микросервисов\nОпыт оптимизации на GPU (CUDA, TensorRT, bitsandbytes) и развертывания на multi-GPU серверах\nОпыт интеграции моделей в продакшн\nПреимущество:\nОпыт работы с SQL и NoSQL\nОпыт работы с Redis\nОпыт построения архитектуры приложений, как общей, так и отдельных сервисов\nОпыт работы с брокерами сообщений (RabbitMQ, Kafka)\nЗнание других языков программирования\nУсловия:\nГрафик: 5/2, удаленно\nРабота в небольшой команде, быстрые решения без бюрократии\nУровень заработной платы обговаривается на тех.собесе",
+    "Кратко": "*1. Требования, навыки, опыт*  \n    - промт-инжиниринг: косвенно присутствует через тонкую настройку LLM и RAG, но явное проектирование промтов не указано;  \n    - работа c ML: глубокий опыт — дообучение LLM, RAG, LoRA/QLoRA, обработка мультимодальных данных (текст, изображения, аудио);  \n    - программирование: уверенный Python (asyncio, typing), FastAPI/Flask, PyTorch, Transformers, vLLM, CUDA, TensorRT;  \n    - soft-skills: не указаны явно, но подразумеваются — работа в малой команде, быстрые решения, интеграция в продакшн;  \n    - прочее: опыт развертывания на multi-GPU, оптимизация инференса, работа с контейнерами, микросервисами, Redis, Kafka, SQL/NoSQL.  \n\n*2. Обязанности и ответственность*:  \nРазработка, дообучение и оптимизация мультимодальных моделей, создание API для их доступа, интеграция в продакшн-системы, повышение эффективности инференса и масштабируемости решений.  \n\n> *Примечание: вакансия больше ориентирована на ML-инженера/LLM-инженера с уклоном в инференс и деплой, а не на промт-инжиниринг как таковой — хотя часть задач (RAG, дообучение LLM) пересекается с ним.*",
+    "Компания": "Плейспартс",
+    "IT": "Нет",
+    "Опубликовано": "2026-01-27T12:47:27+0300",
+    "Ссылка": "https://hh.ru/vacancy/129916249",
+    "Отправлено": true,
+    "Вход_слов": 226,
+    "Вход_токенов": 2241,
+    "Выход_токенов": 1099,
+    "Время_генерации": 6821,
+    "Потрачено": 0.291082
+  },
+  {
+    "id": "129918135",
+    "Название": "Prompt Engineer/Content Specialist",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Join us to work on exciting AIBY projects. With over 70 products and over 2.5 billion installs worldwide, AIBY is at the forefront of mobile-first product development with a focus on AI technology. Innovation and team spirit are the backbones of the company, and thanks to them, it’s proud of titles like ChatOn, iScanner, ARTA, Writely, Solvo, Forma, OnSkin, and Plantum.\nAs a Prompt Engineer/Content Specialist, you’ll apply prompts and AI models in real projects, explore and test new models hands-on, and refine their outputs. A great fit for those who enjoy bringing AI into practical solutions.\nWhat you will do:\nWrite instructions for LLMs with interactive configuration\nCommunicate with developers and stakeholders to ensure proper integration of prompts and agents with the backend\nAnalyze and monitor current AI trends\nConduct detailed testing of new AI models, from playground environments to production deployment\nCoordinate testing stages with the QA team and design test scenarios\nWhat you should have:\nExperience working with modern LLMs (NLP), such as GPT-4.1+, Claude 4.0+ Sonnet, or Gemini 2.5+\nHands-on experience in model playgrounds (OpenAI, Anthropic, Google, etc.)\nBasic programming skills in Python (or a general understanding of code)\nStrong linguistic skills and solid English proficiency for working with modern LLMs\nAbility to conduct A/B testing of prompts (Evals) and perform thorough result fact-checking\nKnowledge of writing and implementing functions for tool (instrument) calling, and configuring their collaborative operation within various projects\nFamiliarity with setting up structured output for LLMs (e.g., JSON schema, JSON object)\nNice-to-have:\nExperience building agent systems using OpenAI Agent Builder or similar tools\nWhat we offer:\nA friendly and supportive team of professionals\nAn opportunity to work remotely\nMedical insurance (including dental)\nEnglish courses\nSports reimbursement program\nCompensation for psychological counseling\nReimbursement of professional courses and training\nA variety of corporate events and team-building activities\nPaid vacations, sick days, and other benefits\nРазмещены сведения о перспективном рабочем месте.",
+    "Кратко": "*1. Требования, навыки, опыт*  \n    - промт-инжиниринг: написание и оптимизация промтов для современных LLM (GPT-4.1+, Claude 4.0+, Gemini 2.5+), A/B-тестирование промтов, настройка структурированных выходов (JSON), работа с инструментами вызова функций;  \n    - работа c ML: ручное тестирование моделей в playground-средах, анализ трендов в ИИ, оценка качества выводов;  \n    - программирование: базовые навыки Python или понимание кода;  \n    - soft-skills: сильные лингвистические способности, отличное владение английским, умение взаимодействовать с разработчиками и QA-командами;  \n    - прочее: опыт работы с агентными системами (например, OpenAI Agent Builder) — преимущество.  \n*2. Обязанности и ответственность*:  \nразработка и настройка промтов для реальных продуктов, интеграция промтов и агентов в бэкенд, координация тестирования от playground до продакшена, мониторинг AI-трендов и проверка точности выводов моделей.",
+    "Компания": "AIBY",
+    "IT": "Нет",
+    "Опубликовано": "2026-01-27T13:19:43+0300",
+    "Ссылка": "https://hh.ru/vacancy/129918135",
+    "Отправлено": true,
+    "Вход_слов": 386,
+    "Вход_токенов": 3247,
+    "Выход_токенов": 930,
+    "Время_генерации": 5986,
+    "Потрачено": 0.276034
   }
 ]
