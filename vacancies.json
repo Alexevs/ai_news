@@ -4938,5 +4938,43 @@
     "Выход_токенов": 883,
     "Время_генерации": 4988,
     "Потрачено": 0.260656
+  },
+  {
+    "id": "130112399",
+    "Название": "Customer Support Agent Fintech Web3",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "As a Customer Support Agent, you will be the frontline voice of COCA, ensuring our users have a smooth and delightful experience. You will resolve inquiries across chat, email, and our community forum, educate users on product functionality, and contribute to a growing knowledge base that empowers our customers to self‑serve.\nAbout COCA Wallet\nCOCA is at the forefront of the financial revolution, seamlessly integrating blockchain technology with everyday financial transactions through its innovative non-custodial wallet and debit card solutions. With a clear vision to make cryptocurrency as straightforward and widely accepted as traditional fiat currency, COCA is paving the way for a new era in the financial industry.\nKey Responsibilities\nMultichannel Support: Respond promptly and professionally to user inquiries via live chat, email, and community channels, maintaining a CSAT of 90% +.\nComplex Issue Resolution: Diagnose and resolve a wide range of issues related to feature usage, account management, transfers, debit cards, cryptocurrency transactions, and wallet operations.\nUser Education: Provide clear, step‑by‑step guidance, empowering customers to navigate the platform and leverage advanced features.\nKnowledge Base Ownership: Draft and maintain self‑help articles, macros, and internal runbooks to boost first‑contact resolution and reduce ticket volume.\nCross‑Team Collaboration: Escalate bugs and systemic issues to Product & Engineering via Jira, and relay customer insights that shape our roadmap.\nProcess Improvement: Identify recurring pain points, propose workflow automations, and champion best practices that raise support efficiency.\n\nQualifications\n3 + years in a customer or technical support role within technology, neobanking, or financial services.\nHands‑on experience with Freshdesk, Zendesk, or similar incident‑tracking tools, plus strong workflow knowledge of Atlassian Jira/Confluence.\nSolid understanding of cryptocurrency fundamentals (e.g., on‑chain transactions, gas fees, wallet security).\nExceptional written and verbal English; able to translate technical jargon into plain‑language solutions.\nProven customer‑centric mindset: empathy, patience, and a genuine desire to help.\nNice to Have\nExperience supporting debit‑card products or KYC/AML processes\n\nWhy COCA?\nEnhanced annual leave + Bank holidays\n1 paid day off to celebrate your Birthday each year\nAnnual training allowance\nAnnual performance bonus pay\nExtensive opportunity to grow your career at an innovative FinTech\nBe at the forefront of crypto adoption in a high-growth, mission-driven company.\nFully remote with flexible hours and bonus opportunities.\nHelp shape the marketing tech stack and user engagement strategy from the ground up.",
+    "Кратко": "*Кому подойдёт эта вакансия*: Эта вакансия подойдёт специалистам по поддержке клиентов с опытом в финтехе или криптовалютах, но не требует навыков промт-инжиниринга.  \n*Почему она оказалась в выдаче по тематическому запросу*: Вероятно, система ошибочно связала её с темой AI/промт-инжиниринга из-за упоминания технологий и криптовалют, хотя реальная роль — клиентская поддержка, а не работа с моделями ИИ или создание промтов.",
+    "Компания": "PRIMECODE SYSTEMS",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-03T08:58:47+0300",
+    "Ссылка": "https://hh.ru/vacancy/130112399",
+    "Отправлено": true,
+    "Вход_слов": 449,
+    "Вход_токенов": 3807,
+    "Выход_токенов": 426,
+    "Время_генерации": 4202,
+    "Потрачено": 0.177474
+  },
+  {
+    "id": "130115249",
+    "Название": "AI Solution Developer (LLM & Product Focused)",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "«Технологика» - аккредитованная IT - компания. Мы расширяем свою команду! Ищем таланты в Новосибирске и, конечно, активно ищем сильных кандидатов в других городах и регионах России.\nОпыт: 1-2 года в разработке (с акцентом на AI/ML проекты)\nО роли\nМы ищем не просто исполнителя кода, а архитектора решений на базе AI. Нам нужен человек, который сможет перевести проблему бизнеса на язык нейросетей, быстро собрать прототип с помощью современных AI-инструментов и довести его до стабильного продакшена.\nЧем предстоит заниматься:\nПроектировать AI-решения: Анализировать бизнес-задачи и выбирать оптимальный путь (RAG, Fine-tuning, Agentic workflows…).\nРазрабатывать в симбиозе с ИИ: Использовать Cursor, GitHub Copilot и другие инструменты для кратного ускорения написания кода и тестирования.\nУправлять качеством: Выстраивать пайплайны валидации ответов LLM, минимизировать галлюцинации и следить за стоимостью токенов.\nМы ждем от Вас:\nБизнес-мышление: Вы сначала спрашиваете «Зачем это заказчику/пользователю?», а потом выбираете модель.\nХорошее понимание LLM и реальный опыт создания решений с их использованием: Вы обладаете знаниями о принципе работы, видах LLM и областях их применения.\nМастерство промпт-инжиниринга: Вы владеете техниками Chain-of-Thought, Few-shot и умеете декомпозировать сложные задачи для ИИ-ассистентов.\nHard Skills:\nЗнакомство с облачными платформами: Azure (AI services, DI), AWS (Bedrock, Textract, AmazonQ), Google (Vertex AI, Document AI).\nЯзыки: Уверенный Python\nФреймворки: FastAPI / Flask / Django, PyTorch\nLLM-инструменты: LangChain, OpenAI API, Hugging Face\nРабота с документами: PyMuPDF, pdfplumber, pandas\nХорошее владение английским языком.\nSoft Skills:\nВы умеете эффективно коммуницировать с командой (сбор требований, обсуждение задач, защита решений).\nБудет плюсом:\nОпыт развертывания локальных моделей.\nСобственные пет-проекты, созданные с помощью AI-агентов.\nПочему у нас круто:\nМинимум рутины: мы поощряем автоматизацию 100% скучных задач с помощью ИИ.\nВозможность влиять на продукт: Ваши идеи по внедрению AI будут приоритетнее задач из бэклога.",
+    "Кратко": "*1. Требования, навыки, опыт*  \n- промт-инжиниринг: мастерство техник Chain-of-Thought, Few-shot, декомпозиция сложных задач для ИИ-ассистентов;  \n- работа c ML: реальный опыт создания решений на базе LLM, понимание принципов работы, применение RAG, Fine-tuning, Agentic workflows;  \n- программирование: уверенный Python, знание FastAPI/Flask/Django, PyTorch, работа с документами (PyMuPDF, pandas);  \n- soft-skills: бизнес-мышление, эффективная коммуникация, умение формулировать требования и защищать решения;  \n- прочее: опыт с облачными AI-платформами (Azure, AWS, Google), инструментами LangChain, OpenAI API, Hugging Face, английский язык.  \n\n*2. Обязанности и ответственность*:  \nПроектировать AI-решения, переводя бизнес-задачи в технические с использованием современных LLM-подходов; разрабатывать с помощью AI-ассистентов (Copilot, Cursor), строить пайплайны валидации ответов, минимизировать галлюцинации и контролировать стоимость токенов; активно участвовать в формировании продукта и автоматизации рутинных задач с помощью ИИ.",
+    "Компания": "Технологика",
+    "IT": "Да",
+    "Опубликовано": "2026-02-03T09:50:36+0300",
+    "Ссылка": "https://hh.ru/vacancy/130115249",
+    "Отправлено": true,
+    "Вход_слов": 346,
+    "Вход_токенов": 3149,
+    "Выход_токенов": 1040,
+    "Время_генерации": 5854,
+    "Потрачено": 0.298078
   }
 ]
