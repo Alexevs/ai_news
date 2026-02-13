@@ -3,3 +3,4 @@ selenium
 python-dotenv
 openai
 pytelegrambotapi
+webdriver_manager
