@@ -6306,5 +6306,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130446366",
+    "Название": "Ассистент по маркетингу",
+    "От": 800,
+    "До": null,
+    "Валюта": "EUR",
+    "Описание": "Ассистент коммерческого отдела (AI / автоматизация / контент)\nМеждународная консалтинговая компания MTRC в сегменте B2B в сфере здравоохранения ищет ассистента коммерческого отдела с навыками автоматизации и AI.\nMTRC является лидером рынка в нишевой области доступа на рынок (market access) Европы для медицинских технологий. Нашими клиентами является 19 из топ-30 глобальных компаний-производителей медицинских технологий.\nКоманда, состоящая из 20 человек (включая 11 врачей и 5 кандидатов медицинских наук), располагается в разных странах мира и работает удаленно. Штаб-квартира компании находится в Болгарии. Компания сертифицирована по ISO9001:2015 и использует в своей работе лучшие мировые практики в областях управления, операций, маркетинга и продаж.\nВ рамках данной роли, помимо административного блока, предусмотрено участие в разработке и внедрении решений по автоматизации, включая анализ текущих процессов и выбор оптимальных цифровых инструментов, в том числе AI-агентов и решений на базе искусственного интеллекта.\nРабота полностью удаленная, ведется на английском языке.\nResponsibilities:\n1. AI & Automation\nIdentifying repetitive or inefficient processes and proposing automation solutions\nSupporting the development and implementation of internal AI agents and intelligent workflows\nAssisting in prompt engineering and structuring AI-based processes across sales and marketing operations\nSupporting implementation and configuration of digital automation tools (e.g., Zapier or similar platforms)\n2. Marketing & Sales Support\nUpdating and maintaining the CRM system\nSupporting website and social media updates (LinkedIn, X)\nPreparing and managing email newsletters in MailChimp and Active Campaign\n3. Administrative Coordination\nManaging incoming administrative e-mails\nScheduling internal and external meetings and calls\nAssisting in the department’s daily operations\nRequirements:\nUpper-intermediate English (B1–B2) with confident written communication skills\nInterest in AI tools, AI agents, and digital automation; relevant coursework, certifications, or independent projects will be considered a strong advantage\nHigher education (medical background will be considered a significant advantage)\nSolid understanding of fundamental sales and marketing principles\nExperience in marketing, business development or sales is desirable, but not required; a medical background or experience in medical technology will be considered a significant advantage\nHigh level of attention to detail with strong accuracy in task execution\nProficient in MS Office with the ability to rapidly adapt to new digital tools and software environments\nКак организован отбор кандидатов?\nОтбор проводится в следующем порядке:\nКандидаты направляют отклик через HeadHunter. К отклику необходимо приложить резюме и видеовизитку на английском языке (короткая самопрезентация длительностью 3–5 минут). Видеовизитку можно предоставить в виде ссылки на Google Диск или любое другое облачное хранилище\nКандидаты получают тестовое задание, по результатам оценки тестового задания проводится дополнительное онлайн психологическое тестирование\nСобеседование с HR-менеджером и руководителем группы маркетинга\nСобеседование с собственником компании\nУсловия работы\nПолная занятость (с 9:00 до 18:00 по Central European Time)\nПолностью удаленная работа\nЗаработная плата от 800 евро (в зависимости от опыта и навыков кандидата)\nВозможность быстрого карьерного роста в компании",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Med Tech Reimbursement Consulting",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-13T19:03:11+0300",
+    "Ссылка": "https://hh.ru/vacancy/130446366",
+    "Отправлено": true,
+    "Вход_слов": 505,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
