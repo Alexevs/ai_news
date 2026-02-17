@@ -6325,5 +6325,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130510215",
+    "Название": "Lead AI Engineer",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "We are looking for a Lead AI Engineer to design and deliver AI solutions, including chatbots, Q&A systems, and workflow systems for agents.\nThis position requires staying informed about LLM advancements and driving innovation in AI projects. Join us to expand your expertise in AI engineering and create impactful solutions tailored to client needs.\nThis position offers remote setup with the flexibility to work from any location in Kazakhstan, whether it's your home or well-equipped offices in Astana, Almaty or Karaganda.\nResponsibilities\nDesign AI applications such as chatbots, Q&A platforms, and agent workflows\nCollaborate with clients to identify needs, opportunities, and recommend LLM-based solutions\nDevelop data pipelines, prompt strategies, and datasets to support effective AI models\nEvaluate AI systems to ensure accuracy, security, scalability, and compliance with industry standards\nResearch and validate technical feasibility while demonstrating business value\nStay informed about LLM technologies, frameworks, and methodologies to improve solutions\nRequirements\nProficiency in Python and experience with web frameworks like FastAPI\nBackground in leading and mentoring engineering teams\nUnderstanding of AI development lifecycles\nFlexibility to use rapid UI prototyping tools like Streamlit or Gradio\nFamiliarity with LLM platforms and APIs such as OpenAI, Anthropic, Amazon Bedrock, and Gemini, along with frameworks like LangGraph and LlamaIndex\nKnowledge of advanced AI integration patterns like RAG and Agents\nSkills in deploying AI solutions at scale with a focus on performance and cost-efficiency\nExperience assessing generative AI quality using retrieval, classification, or LLM-based metrics\nProven background in AI engineering and delivering machine learning-based solutions\nCompetency in problem-solving with strong attention to detail\nStrong written and verbal English communication skills (B2+)\nNice to have\nBackground in designing experiments and conducting A/B testing for model optimization\nUnderstanding of retrieval systems, vector search, and ranking algorithms\nFamiliarity with protocols like MCP, A2A, and ACP\nExperience deploying AI solutions to cloud platforms such as Azure OpenAI, Amazon Bedrock, or GCP Vertex AI; flexibility to leverage on-premise options like vLLM\nBackground in enterprise AI platforms such as AWS AgentCore, Databricks AgentBricks, or Azure AI Foundry\nSkills in using observability and monitoring frameworks and tools\nWe offer/Benefits\nWe connect like-minded people:\nDelivering innovative solutions to industry leaders, making a global impact\nEnjoyable working environment, whether it is the vibrant office or the comfort of your own home\nOpportunity to work abroad for up to two months per year\nRelocation opportunities within our offices in 55+ countries\nCorporate and social events\nWe invest in your growth:\nLeadership development, career advising, soft skills and well-being programs\nCertifications, including GCP, Azure and AWS\nUnlimited access to LinkedIn Learning and Udemy\nFree English classes with certified teachers\nDiscounts in local language schools, including online courses for the Kazakh language\nWe cover it all:\nParticipation in the Employee Stock Purchase Plan\nMonetary bonuses for engaging in the referral program\nMedical & family care package\nSix trust days per year (sick leave without a medical certificate)\nCoverage of psychology sessions of your choice\nBenefits package (sports activities, a variety of stores and services)\nEPAM is a team of technologists and innovators united by a passion for technology. In Kazakhstan, we operate across all cities with offices in Astana, Almaty, and Karaganda and work with the world's leading companies from different industries. In 2023, EPAM received the Export Excellence Award at the esteemed Digital Bridge Awards, showcasing our commitment to excellence and innovation.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Epam Kazakhstan (Эпам Казахстан),ТОО",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-17T08:49:55+0300",
+    "Ссылка": "https://hh.ru/vacancy/130510215",
+    "Отправлено": true,
+    "Вход_слов": 604,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
