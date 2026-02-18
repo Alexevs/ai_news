@@ -6496,5 +6496,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130559817",
+    "Название": "Python-разработчик",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "# Middle+ Python Developer\n\n## Что мы делаем\nРазрабатываем микросервисный бэкенд для банковских интеграций. Ставим на асинхронность, отказоустойчивость и масштабируемость.\n\n## Что вы будете делать\n- Проектировать и писать асинхронный API на FastAPI\n- Составлять и оптимизировать запросы к PostgreSQL (Peewee, Sqlalchemy)\n- Настраивать и обслуживать Celery + RabbitMQ (tasks, retries, beat)\n- Кешировать результаты в Redis и реализовывать rate‑limiting\n- Docker‑изовать сервисы, писать Docker‑Compose‑file для локальной разработки\n- Писать unit‑ и integration‑тесты (pytest, coverage)\n- Проводить код‑ревью и участвовать в архитектурных обсуждениях\n- Автоматизировать CI/CD (GitLab CI, GitHub Actions)\n- Документировать работу в Confluence и обсуждать вопросы в Jira\n\n## Обязательные навыки\n- Python 3.10+, async/await, type hints\n- FastAPI, Pydantic/Msgspec, OpenAPI\n- PostgreSQL, Peewee/Sqlalchemy\n- Celery, RabbitMQ, Redis\n- ELK stack, Sentry\n- Опыт с Nginx, uvicorn/gunicorn/granian\n- Docker, Docker‑Compose, CI/CD\n- Git, Git‑flow\n- Уверенное владение Unix‑средой (bash, crontab, systemd)\n- Технический английский – чтение документации\n- Знание базовых паттернов проектирования, SOLID, структур данных и алгоритмов.\n\n## Плюсы / Желательные навыки\n- Опыт с MongoDB\n- Архитектура масштабируемых систем (microservices, CQRS)\n- Prompt‑engineering, LangChain, создание и запуск multi‑agent систем\n- Опыт работы с ML‑моделями, inference API\nМы предлагаем:\nТрудоустройство в ИТ-компанию.\nКонкурентный оклад + премия по итогам полугодия и квартала.\nКорпоративное обучение.\nДМС или оплата спорта на выбор.\nДетские новогодние подарки.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Экспобанк",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-18T11:25:10+0300",
+    "Ссылка": "https://hh.ru/vacancy/130559817",
+    "Отправлено": true,
+    "Вход_слов": 277,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
