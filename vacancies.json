@@ -6458,5 +6458,43 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130542833",
+    "Название": "AI Prompt & Portfolio Engineer Intern (AI Software)",
+    "От": null,
+    "До": 120000,
+    "Валюта": "RUR",
+    "Описание": "О компании\nМы — продуктовая международная финтех-компания, создающая B2C и B2B SaaS трейдинговую платформу для клиентов по всему миру\nДва года назад мы запустили новый амбициозный AI проект, где строим IDE нового поколения для мульти-модельных AI-генераций (код, изображения, видео, звук) и агентных сценариев с помощью современных LLM-агентов. Это умная среда для разработки и дизайна софта, пользователями которой являются как разработчики, так и ИИ-энтузиасты\nЭто стартап внутри стабильной компании — идеальное сочетание инноваций и поддержки. Мы уже дошли до MVP, и сейчас находимся на стадии внутреннего тестирования перед выходом на рынок. У тебя будет возможность расти вместе с проектом и проявлять полную свободу действий в создании креативных портфолио\nМы активно растём, у нас уже есть сильная команда технарей, и теперь мы ищем AI Prompt & Portfolio Engineer Intern, который будет помогать нам в создании showcase-проектов (примеры генераций в IDE - от промптов до готовых артефактов и мини-описаний), показывающих, как работает наша платформа Quadcode.ai, и что она умеет\nЭто вакансия отлично подойдет для начинающего специалиста или студента старших курсов, который интересуется искусственным интеллектом, генеративными моделями и prompt-инжинирингом и имеет технический бэкграунд\nНаш идеальный кандидат владеет навыками разработки (идеально на Python), промпт-инжиниринга, ИИ, а также базовыми навыками дизайна контента, чтобы упаковывать проекты в наглядные портфолио-кейсов\nТвоя цель - собрать и оформить живое портфолио проектов внутри Quadcode.ai, которое будет демонстрировать возможности IDE AI — по сути, это витрина продукта через реальные примеры\nИспользуемые инструменты\nIDE Quadcode.ai (мультимодельные генерации, RAG, агентные режимы)\nХранилище исходников и артефактов (Git/Drive — по регламенту)\nЧем ты будешь заниматься\nСоздавать примеры генераций в Quadcode.ai: код, изображения, видео, звук\nПридумывать и оформлять шаблоны и примеры инструкций для агентных сценариев в IDE (например, AI-агент, который анализирует отзывы и генерирует отчёт)\nНастраивать промпты под разные модели/пайплайны и сохранять воспроизводимые кейсы\nОписывать кейсы наглядно, кратко и по делу: цель → вход → шаги → результат + материалы (файлы/картинки/видео)\nПоддерживать аккуратную структуру портфолио (категории, теги, версии, исходники)\nТесно сотрудничать с командой ИИ инженеров\nБыть в курсе трендов на рынке ИИ и ИТ\nЧто мы ожидаем от тебя\nТехническое образование, в том числе Студент 3–5 курса или недавний выпускник\nМинимальный опыт разработки (базовый Python/JS или иной язык на уровне запуска примеров), чтобы понимать, что делает сгенерированный код\nЭстетический вкус и внимание к деталям (чтобы портфолио выглядело \"вау\")\nБазовые навыки работы с LLM и промптингом, чтобы понимать, как управлять генерацией\nБазовый английский B1 (читать доки/названия моделей)\nУмение работать самостоятельно, генерировать идеи и быстро их реализовывать\nОрганизованность и структурное мышление (чтобы портфолио было логичным и аккуратным)\nГотовность выполнить входное тестовое задание после HR-интервью\nБудет плюсом\nОпыт с AI-инструментами (ChatGPT/Claude/Gemini, SDXL/Flux, Suno, Luma и т.д.)\nПонимание RAG и агентных сценариев\nБазовые навыки дизайна/монтажа для лёгкой постобработки артефактов\nНаличие портфолио проектов\nМы предлагаем\nКонкурентная зарплата и удаленка\nПолная или частичная занятость\nГибкий график работы, менторство продукта\nПолная творческая свобода и возможность экспериментировать с контентом\nПрофессиональное развитие вместе с ростом проекта\nДоступ к современным AI-инструментам\nПрофессиональная, дружная и позитивная команда\nПрисоединяйся к нам развивать будущее разработки вместе!",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Quadcode",
+    "IT": "Да",
+    "Опубликовано": "2026-02-17T19:27:41+0300",
+    "Ссылка": "https://hh.ru/vacancy/130542833",
+    "Отправлено": true,
+    "Вход_слов": 543,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
+  },
+  {
+    "id": "130545932",
+    "Название": "Prompt Engineer",
+    "От": 2000,
+    "До": 3500,
+    "Валюта": "USD",
+    "Описание": "About Us\nMad Devs is a full-stack team specializing in developing and administering large-scale IT products across diverse industries. Many of our products operate in Europe, the USA, and countries across Southeast Asia. We are passionate about tackling complex challenges and delivering innovative solutions that make a meaningful impact globally.\nResponsibilities:\nSystem Prompt Architecture: Design complex, structured system prompts. Use Chain-of-Thought and Few-Shot techniques to solve complex logic tasks (e.g., \"Diagnose this car issue based on the user's description\")\nStructured Generation (JSON): Engineer prompts that reliably output valid JSON for API integrations. You must ensure the model follows schema constraints 100% of the time\nVoice Persona Design: Control the agent's tone and pacing. Use instructions to influence output, making the agent sound empathetic, professional, or urgent as needed\nJinja2 Integration: Embed dynamic data into prompts. You must write prompts that are robust enough to handle empty variables or unexpected data formats ({{ user_history }})\nOptimization: Continuously A/B test prompts to reduce hallucinations and improve conversion rates (e.g., \"Did the agent successfully book the meeting?\")\nRequirements:\nDeep LLM Expertise: You know the difference between GPT-4 and Claude 3 Opus. You understand token limits, temperature, and context windows\nTechnical Proficiency: You are comfortable working with JSON and Markdown. You can write basic Jinja2 templates\nAnalytical Mindset: You don't just \"guess\" improvements; you analyze conversation logs to find the root cause of errors\nLinguistic Precision: Excellent command of English to catch subtle nuances in interaction\nLanguage: Russian (Native/Fluent) and English (B2+)\nLocation: any, except Russia and Belarus\nWhy join us\nAt Mad Devs, you'll join a passionate team dedicated to solving complex challenges and delivering innovative solutions. Our projects span Europe, the USA and South East Asia, giving you the opportunity to make a global impact. We value flexibility, remote working and professional development, ensuring you thrive in an inspiring environment. Join us in revolutionizing the legal industry with AI!",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Mad Devs",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-18T05:33:13+0300",
+    "Ссылка": "https://hh.ru/vacancy/130545932",
+    "Отправлено": true,
+    "Вход_слов": 399,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
