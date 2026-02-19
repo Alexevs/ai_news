@@ -6705,5 +6705,43 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130603884",
+    "Название": "Prompt-инженер",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Teletype.app — платформа, объединяющая сообщения клиентов из разных каналов коммуникации в единое окно.\nМы развиваем B2B SaaS-продукт, который помогает бизнесу выстраивать эффективную коммуникацию с клиентами и повышать качество сервиса.\nМы ищем не просто промпт-инженера, а AI-энтузиаста, который следит за трендами, тестирует новые модели, предлагает идеи и помогает превращать возможности LLM в реальные продуктовые решения.Если ты читаешь релизы новых моделей в день выхода, тестируешь их руками и думаешь «как это можно применить в продукте?» — нам по пути.\n\nОбязанности:\nПроверять гипотезы: «будет ли работать?», «лучше ли текущего?», «в чём ограничение?»\nДелать короткие PoC и прототипы (без доведения до продакшена)\nСравнивать модели и версии между собой на реальных сценариях\nТестировать разные стратегии промптинга, цепочки, агенты, RAG, tool-use\nФиксировать выводы: где есть потенциал, где хайп, а где тупик\nПредлагать новые направления для экспериментов\nПостоянно запускать быстрые эксперименты с новыми моделями и подходами\nТребования:\nОпыт работы с LLM около 1 года (коммерческий или сильный pet-проекты)\nГлубокое понимание принципов prompt engineering\nПрактика работы с несколькими моделями\nИнтерес к развитию AI-технологий\nПроактивность и желание влиять на продукт\nУсловия:\nКонкурентная заработная плата (обсуждается индивидуально)\nВозможность влиять на стратегию и развитие продукта\nРабота в растущей IT-компании\nПоддержка в профессиональном росте\nАдекватная дружная команда с минимальной бюрократией",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Телетайп",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-19T12:21:59+0300",
+    "Ссылка": "https://hh.ru/vacancy/130603884",
+    "Отправлено": true,
+    "Вход_слов": 274,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
+  },
+  {
+    "id": "130601249",
+    "Название": "System Analyst (AI Contact Center Solutions)",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Мы ищем специалиста на позицию системного аналитика, который возглавит проектирование и реализацию решений для контакт-центра на базе искусственного интеллекта, включая голосовых ботов, чат-ботов, средства анализа речи и разговорные платформы, управляемые большими языково-моделируемыми системами (LLM).\nВ этой роли Вы будете выступать посредником между владельцами продуктов, архитекторами решений и инженерами. Вы переведете сложные бизнес-требования в масштабируемые технические архитектуры и дизайн диалогов, уделяя особое внимание разработке логики на Python и интеграции моделей LLM.\n\nСвободный английский обязателен. Интервью будет на английском. Немецкий - желательно.\n\nВ сопроводительном письме укажите, пожалуйста, релевантные проекты и Вашу роль на них.\nKey Responsibilities\nRequirements Management: Lead elicitation and documentation of functional and technical requirements across business domains;\nSolution Design: Design conversational AI workflows, including intent models, entity extraction, and fallback strategies;\nPython Development: Develop and maintain Python-based business logic (webhooks, decisioning, validations) within conversational flows;\nAI Implementation: Support the deployment of NLP, ASR/TTS, and RAG (Retrieval-Augmented Generation) components;\nSystem Integration: Design and document REST API integrations with CRM, billing, and ticketing platforms;\nData-Driven Optimization: Collaborate with Data Scientists to refine NLP model performance and analyze speech/text data;\nTesting & Quality: Lead UAT and validation processes; provide high-level troubleshooting for live AI solutions;\nStakeholder Management: Act as a subject-matter expert in technical workshops and solution reviews;\nRequired Qualifications\n3+ years of experience as a System/Business Analyst in a technical environment;\nHands-on experience with Python for backend integrations or conversational platforms;\nStrong background in API-based architecture (REST, JSON, authentication, data mapping);\nSolid understanding of AI/LLM concepts: Generative AI, LLMs, Prompt Engineering, and RAG architectures;\nExperience with Contact Center technologies (IVR, ACD, CTI, CRM integrations);\nAgile mindset: Experience working in Scrum/Agile delivery environments;\nTechnical Skills\nLLM Orchestration (LangChain, LlamaIndex), Vector Databases, Prompt Engineering;\nPython (embedded logic, webhooks), JSON, basic Cloud knowledge (AWS/Azure/GCP);\nREST APIs, Synchronous/Asynchronous calls, Error handling, Auth tokens;\nContact Center KPIs (AHT, CSAT, FCR), Conversational UX best practices;\nJira, Confluence, Swagger, Miro/Visio (for flowcharts);\nNice to Have\nExperience with Vector Databases (e.g., Pinecone, Weaviate, Milvus);\nFamiliarity with BI tools (Tableau, PowerBI) for reporting on speech analytics;\nKnowledge of SIP/Telephony or omnichannel contact center platforms (Genesys, Cisco, Avaya);\nExperience with GDPR and security compliance in recording/processing environments;\nBackground in Banking or Finance domains;\nBenefits:\nCompetitive salary and benefits;\nOpportunity to work remotely, flex time;\nInternational projects; Travel opportunities;\nPositive team atmosphere and plenty of room to grow.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Бэнкс Софт Системс",
+    "IT": "Да",
+    "Опубликовано": "2026-02-19T11:38:17+0300",
+    "Ссылка": "https://hh.ru/vacancy/130601249",
+    "Отправлено": true,
+    "Вход_слов": 448,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
