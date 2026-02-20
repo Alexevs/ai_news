@@ -6857,5 +6857,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130645999",
+    "Название": "SAP BTP CAP Java Developer",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "At LeverX, we have had the privilege of delivering over 950 projects for various clients. With 20+ years in the market, our team of 2,200 is strong, reliable, and always evolving: learning, growing, and striving for excellence.\nWe are looking for an SAP BTP CAP Java Developer to join us. Let’s see if we are a good fit for each other!\nWe offer:\nProjects in different domains: healthcare, manufacturing, e-commerce, fintech, etc.\nProjects for every taste: Startup products, enterprise solutions, research & development initiatives, and projects at the crossroads of SAP and the latest web technologies.\nGlobal clients based in Europe and the US, including Fortune 500 companies.\nEmployment security: We hire for our team, not just for a specific project. If your project ends, we will find you a new one.\nHealthy work atmosphere: On average, our employees stay with the company for 4+ years.\nMarket-based compensation and regular performance reviews.\nInternal expert communities and courses.\nPerks to support your growth and well-being.\nRequired skills:\n2–4 years of experience in Java or enterprise application development\nHands-on experience with SAP CAP for Java\nStrong knowledge of Java, Spring concepts, and Maven/Gradle\nExperience working with SAP BTP and its core services\nSolid understanding of OData V4, CDS, and service modeling\nExperience with SAP HANA / SAP HANA Cloud\nKnowledge of RESTful APIs and microservices architecture\nExperience with Git and CI/CD tools\nNice-to-have skills:\nExperience with SAP Fiori / SAPUI5\nKnowledge of Event Mesh, Destination Service, or Workflow Management\nExperience working in Agile/Scrum teams\nCloud security and performance optimization experience\nAI Experience\nExperience integrating AI/ML services into enterprise applications\nHands-on knowledge of SAP AI Core, SAP AI Launchpad, or AI services on SAP BTP\nExperience with generative AI, prompt engineering, or LLM-based APIs\nUsing AI for document processing, chatbots, recommendations, or automation\nUnderstanding of data pipelines and AI model lifecycle basics\nResponsibilities:\nDesign, develop, and maintain backend services using SAP CAP (Java)\nBuild and expose OData V4 and REST services based on business requirements\nDevelop and deploy applications on SAP BTP (Cloud Foundry)\nWork with SAP HANA / SAP HANA Cloud for data modeling and persistence\nImplement authentication and authorization using SAP XSUAA\nIntegrate with SAP S/4HANA and external systems via APIs and events\nApply clean code principles, write unit and integration tests\nParticipate in code reviews, CI/CD pipelines, and DevOps activities\nAnalyze and improve application performance and reliability\nCollaborate closely with architects, functional consultants, and frontend teams",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "LeverX",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-20T14:47:38+0300",
+    "Ссылка": "https://hh.ru/vacancy/130645999",
+    "Отправлено": true,
+    "Вход_слов": 463,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
