@@ -7123,5 +7123,43 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130745307",
+    "Название": "Senior QA Engineer - AI-Native Platform",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "We are a global OSINT company headquartered in the US, empowering investigators and security professionals with cutting-edge AI-powered products. Our technology collects and analyzes massive volumes of data from open sources, including social media, messengers, and the dark web, to create a comprehensive picture for data-driven investigations and decision-making.\nOur customers include S&P 500 companies and law enforcement agencies in 80+ countries worldwide. Social Links is scaling rapidly, growing 2x annually, with the ambition of becoming a unicorn valued at $1B+.\nWe are looking for a hands-on Senior QA Engineer building test infrastructure and evaluation frameworks from scratch for a distributed AI platform. Primary focus: testing non-deterministic AI agent outputs, RAG pipeline quality, multi-tenant data isolation, and cross-service integration.\nYour Tasks Will Be:\nBuild and maintain AI evaluation framework\nTest RAG pipeline quality and retrieval relevance\nDesign testing approaches for non-deterministic LLM outputs\nBuild multi-tenant isolation test suite, including AI layer isolation\nWrite cross-service integration and contract tests\nTest Temporal workflows, event-driven flows, and YAML DSL validation\nBuild and maintain automated regression suites\nOur Ideal Candidate Has:\n3+ years in QA automation / SDET\nHands-on experience testing AI/ML systems\nStrong Python (pytest, async testing)\nExperience building test infrastructure from scratch\nExperience testing distributed or event-driven systems\nExperience testing multi-tenant applications\nAutonomous work style\nEnglish – B1 level or higher\nNice To Haves:\nRAG / vector search quality evaluation\nLangGraph, LangChain, or similar agent frameworks\nGo test automation\nBentoML / MLflow or equivalent MLOps tooling\nSecurity testing: prompt injection, context leakage\nPerformance / load testing for ML inference endpoints\nData pipeline testing (Delta Lake, Great Expectations, Dagster)\nRussian – advanced level or higher\nWhat We Offer:\nRemote-first setup: work from anywhere in the world (except Russia and Belarus)\nWork on a greenfield, technically challenging product (distributed system at scale)\nDirect collaboration with senior technical stakeholders (engineering leadership, product)\nOwnership and impact: influence QA strategy, tooling, and quality gates from the early stage of the product\nFast iteration environment: work closely with engineering to improve reliability and release confidence\nWe are an equal-opportunity employer and are committed to fostering a diverse and inclusive environment for all candidates.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "SL KG",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-25T12:08:52+0300",
+    "Ссылка": "https://hh.ru/vacancy/130745307",
+    "Отправлено": true,
+    "Вход_слов": 418,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
+  },
+  {
+    "id": "130745306",
+    "Название": "Senior QA Engineer - AI-Native Platform",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "We are a global OSINT company headquartered in the US, empowering investigators and security professionals with cutting-edge AI-powered products. Our technology collects and analyzes massive volumes of data from open sources, including social media, messengers, and the dark web, to create a comprehensive picture for data-driven investigations and decision-making.\nOur customers include S&P 500 companies and law enforcement agencies in 80+ countries worldwide. Social Links is scaling rapidly, growing 2x annually, with the ambition of becoming a unicorn valued at $1B+.\nWe are looking for a hands-on Senior QA Engineer building test infrastructure and evaluation frameworks from scratch for a distributed AI platform. Primary focus: testing non-deterministic AI agent outputs, RAG pipeline quality, multi-tenant data isolation, and cross-service integration.\nYour Tasks Will Be:\nBuild and maintain AI evaluation framework\nTest RAG pipeline quality and retrieval relevance\nDesign testing approaches for non-deterministic LLM outputs\nBuild multi-tenant isolation test suite, including AI layer isolation\nWrite cross-service integration and contract tests\nTest Temporal workflows, event-driven flows, and YAML DSL validation\nBuild and maintain automated regression suites\nOur Ideal Candidate Has:\n3+ years in QA automation / SDET\nHands-on experience testing AI/ML systems\nStrong Python (pytest, async testing)\nExperience building test infrastructure from scratch\nExperience testing distributed or event-driven systems\nExperience testing multi-tenant applications\nAutonomous work style\nEnglish – B1 level or higher\nNice To Haves:\nRAG / vector search quality evaluation\nLangGraph, LangChain, or similar agent frameworks\nGo test automation\nBentoML / MLflow or equivalent MLOps tooling\nSecurity testing: prompt injection, context leakage\nPerformance / load testing for ML inference endpoints\nData pipeline testing (Delta Lake, Great Expectations, Dagster)\nRussian – advanced level or higher\nWhat We Offer:\nRemote-first setup: work from anywhere in the world\nWork on a greenfield, technically challenging product (distributed system at scale)\nDirect collaboration with senior technical stakeholders (engineering leadership, product)\nOwnership and impact: influence QA strategy, tooling, and quality gates from the early stage of the product\nFast iteration environment: work closely with engineering to improve reliability and release confidence\nWe are an equal-opportunity employer and are committed to fostering a diverse and inclusive environment for all candidates.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "SL KG",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-25T12:08:52+0300",
+    "Ссылка": "https://hh.ru/vacancy/130745306",
+    "Отправлено": true,
+    "Вход_слов": 414,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
