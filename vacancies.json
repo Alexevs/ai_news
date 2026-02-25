@@ -7085,5 +7085,43 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130732987",
+    "Название": "Senior AI Engineer",
+    "От": 4000,
+    "До": null,
+    "Валюта": "USD",
+    "Описание": "About Us\nSilverbee is a fast-moving, seed-stage startup backed by Tier 1 Silicon Valley VCs. After a successful funding round, we are growing our core engineering team to build a production-grade agentic AI platform. Based in Tel Aviv, our mission is to become the service delivery backbone for the next generation of marketing departments.\nWhat you will do\nThis is a senior individual contributor role with full ownership over production AI behavior, not a research or experimentation-only position.\nOwn the end-to-end behavior of a production agentic AI system built with LangGraph, from prompt and architecture design through evaluation, deployment, and production debugging\nDesign, implement, and evolve agent architectures (planning, execution, supervision, routing, tool usage) with a clear focus on quality, determinism, latency, and cost\nTake full ownership of system prompt design and tuning, treating prompts as first-class production artifacts that are versioned, evaluated, tested, and deployed as part of the SDLC\nContinuously improve agent performance by running controlled experiments with models, prompting strategies, memory, and tooling, always tied to measurable impact\nDesign, run, and evolve evaluation loops (offline evals, regression testing, and production signals) that directly gate releases and drive architectural decisions\nTurn insights from evaluations, traces, and real production usage into concrete improvements in prompts, agents, and system design\nRaise the bar on what “production-ready AI” means at Silverbee: reliability, observability, repeatability, and maintainability\nMentor other engineers and help establish best practices for building, evaluating, and operating production-grade AI systems\nWhat you need to know\nStrong hands-on experience owning LLM-powered systems that run in production, including diagnosing and fixing real-world failures\nPractical experience designing and operating AI evaluation frameworks, including offline evals, regression testing, and qualitative and quantitative metrics\nDeep understanding of prompt engineering as an engineering discipline: structure, constraints, iteration, debugging, and performance tuning\nExperience with agent frameworks such as LangChain / LangGraph, or equivalent agentic architectures\nSolid software engineering skills (Python and/or TypeScript), including system design, testing, and code quality\nStrong product sense, with the ability to reason clearly about trade-offs between correctness, speed, cost, and flexibility\nProven ability to operate in ambiguous problem spaces and be accountable for outcomes, not just experimentation\nClear communication skills and the ability to work effectively with product managers, domain experts, and other non-AI stakeholders\nThe reason this job vacancy is written in English is that we are looking for a candidate who has proficiency in the language at the B1-B2 level.\n\nIf you are interested in participating in our project, please apply for the vacancy! We look forward to meeting you!",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Сумма АйТи",
+    "IT": "Да",
+    "Опубликовано": "2026-02-25T09:02:06+0300",
+    "Ссылка": "https://hh.ru/vacancy/130732987",
+    "Отправлено": true,
+    "Вход_слов": 497,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
+  },
+  {
+    "id": "130735991",
+    "Название": "Russian Language Expert",
+    "От": 13000000,
+    "До": null,
+    "Валюта": "UZS",
+    "Описание": "Job Summary:\nConnectra is searching for a talented Russian Language Specialist to join our customer's team and help advance cutting-edge Generative AI solutions. In this pivotal remote role, you’ll leverage your linguistic expertise and creativity to shape the next generation of intelligent tools, all while collaborating in a dynamic, innovative environment.\nKey Responsibilities:\nCraft high-quality, contextually appropriate responses to AI prompts, encompassing a broad spectrum from factual queries to creative jokes.\nAssess, annotate, and evaluate human and AI-generated text for accuracy, style, safety, and overall effectiveness.\nConduct thorough peer reviews of content produced by fellow contributors, sharing constructive feedback.\nInvent original puzzles and scenarios—including social deduction games—to challenge and refine AI capabilities.\nAnalyze and articulate how humor varies across contexts and cultures, enhancing AI’s cultural awareness.\nDesign thought experiments that explore and clarify ethical principles relevant to AI use cases.\nEngage in text labeling tasks to train and improve AI models.\nRequired Skills and Qualifications:\nNative or near-native proficiency in Russian, with exceptional writing and comprehension skills.\nDemonstrated ability to adapt writing style, tone, and genre to suit various contexts and audiences.\nStrong written and verbal communication skills, with an emphasis on clarity and detail.\nPassion for experimentation and creativity in written language.\nSuccessful completion of a Russian writing assessment (to be provided).\nPrior experience in teaching, tutoring, or editing is highly valued.\nPreferred Qualifications:\nExperience working with AI training, language data annotation, or development projects.\nBackground in text labeling and content review workflows.\nDemonstrated success as a remote contributor in global teams.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Mixstone",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-25T09:53:01+0300",
+    "Ссылка": "https://hh.ru/vacancy/130735991",
+    "Отправлено": true,
+    "Вход_слов": 331,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
