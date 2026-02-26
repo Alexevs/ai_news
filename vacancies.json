@@ -7313,5 +7313,43 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130801380",
+    "Название": "Junior IT Administrator",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "We are expanding our IT team. The new team member will be responsible for managing and maintaining computer systems and networks, providing user support, and overseeing recovery and backup processes. If you are ready to join our dynamic team and take the next step in your career, apply to our vacancy.\nKey Responsibilities\nActs as the routine contact point, receiving and handling requests for support;\nResponds to a broad range of service requests for support by providing information to fulfill requests or enable resolution;\nMac and PC desktop support (Initial configuration, life cycle maintenance, Continuous technical support for users, configuration and maintenance of PCs);\nProvide office equipment support;\nProvision of network security settings, interaction with the information security department;\nInventory and maintenance of employees' PC database by hardware and software components;\nProvide the necessary assistance to users, prompt response to employee requests;\nCommissioning of equipment, diagnostics, minor repairs of office equipment\nSkills, knowledge & expertise\nHands-on experience working and prioritizing requests in an established ticketing system;\nIT experience at least 2 years;\nAdvance level of english, able to mantain a conversation;\nKnowledge of MacOS, Linux OS;\nKnowledge of Google Workspaces\nKnowledge of the principles of network operation, basic skills in setting up active network equipment (desirable Mikrotik, good if knows CISCO, HP (Aruba), Ubiquity)\n\nJob benefits\nStable salary, official employment\nHealth insurance\nHybrid work mode and flexile schedule\nAccess to professional counseling services including psychological, financial, and legal support\nDiscount club membership\nDiverse internal training programs\nPartially or fully payed additional training courses\nAll necessary work equipment",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "inDrive",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-26T15:33:08+0300",
+    "Ссылка": "https://hh.ru/vacancy/130801380",
+    "Отправлено": true,
+    "Вход_слов": 330,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
+  },
+  {
+    "id": "130792326",
+    "Название": "RnD инженер по разработке ИИ-агентов",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Команда Управляющей Компании Ингосстрах-Инвестиции ищет AI Agents Research Engineer для разработки ИИ-агентов. Мы запускаем проекты по финансовой аналитике и нуждаемся в специалисте, который будет проектировать логику агентов, проводить эксперименты и создавать прототипы интерфейсов для валидации гипотез.\n\nЗадачи:\nПроведение экспериментов с ИИ-агентами по обработке собранных данных из веба, соцсетей, Телеграм\nТюнинг, доработки, разработка ИИ-агентов (ReAct, мультиагентные сценарии, tool-use). Замеры метрик качества их работы\nРазработка и поддержка RAG-пайплайнов: подбор эмбеддеров/reranker'ов, настройка retrieval, оценка качества ответов\nРазработка прототипов клиентских интерфейсов для демонстрации работы агентов и сбора обратной связи\nСоздание тест-наборов и автоматизированных eval-сценариев для контроля качества (hallucinations, grounding, relevance)\nИнтеграция агентов с внешними API и инструментами (поиск, вычисления, базы знаний)\nДля нас важно:\nОпыт работы на аналогичной позиции от 3х лет\nРазвитые навыки prompt-engineering, опыт работы с ИИ-агентами и мультиагентными системами\nЗнание и опыт работы с технологиями RAG (embedder, reranker, BM25, vector DB и т.д.). Умение собрать и запустить RAG pipeline\nУмение проектировать и оценивать качество работы агентов: разработка метрик, проведение экспериментов, A/B-тест\nБазовое знание front-end технологий (React/Next.js или аналоги) для быстрого прототипирования интерфейсов\nПрактические навыки программирования на Python, работа с LLM API (OpenAI/Anthropic/OSS), знание фреймворков (LangChain/LlamaIndex или аналоги)\nУспешное применение нейросетей при разработке приветствуется\nПредлагаем:\nОформление в штат по бессрочному трудовому договору, полностью белую заработную плату: оклад + ежеквартальная премия;\nГрафик 5/2, гибкое начало дня (в промежутке с 08:00 до 10:00);\nУдаленный или гибридный формат работы: готовы обсудить;\nОфис находится в пешей доступности от м.Новокузнецкая (ул.Пятницкая, д.12);\nПосле 3 месяцев работы базовый пакет ДМС (амбулаторная, стационарная и экстренная медицинская помощь); спустя 9 месяцев работы – расширенный ДМС (стоматология, плановая мед. помощь);\nДМС на одного ребенка;\nТехника для работы: ноутбук, монитор, гарнитура;\nЛьготные страховые продукты (страхование имущества физ лиц, автотранспорта, страхование выезжающих за рубеж);\nКорпоративные скидки от партнеров Компании;\nЗарплатный проект от АО Ингосстрах Банка: повышенный кешбэк бонусами, льготы по кредитам, ипотеке, рефинансированию, выгодные ставки по вкладам, накопительным счетам.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Ингосстрах",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-26T13:04:05+0300",
+    "Ссылка": "https://hh.ru/vacancy/130792326",
+    "Отправлено": true,
+    "Вход_слов": 378,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
