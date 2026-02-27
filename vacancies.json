@@ -7389,5 +7389,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130808596",
+    "Название": "AI Agent Developer",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Key Responsibilities\nDesign and develop multi-agent systems where multiple AI agents collaborate, delegate, and coordinate to solve complex workflows\nBuild and maintain robust backend services (APIs, microservices, data pipelines) that power AI agent infrastructure\nDevelop intuitive frontend interfaces for agent monitoring, configuration, and human-in-the-loop interactions\nIntegrate Large Language Models (LLMs) into agentic frameworks with tool use, memory, and planning capabilities\nImplement agent orchestration patterns including chain-of-thought reasoning, ReAct, function calling, and task decomposition\nDefine evaluation frameworks to measure agent reliability, accuracy, and performance\nCollaborate with cross-functional teams to identify automation opportunities and deploy agent-based solutions\nRequired Qualifications\nStrong experience in multi-agent system design — orchestration, communication protocols, agent roles, and coordination strategies\nSolid backend development skills (Python, Node.js, or similar) including REST/GraphQL APIs, databases, message queues, and cloud infrastructure\nProficient in frontend development (React, Next.js, Vue, or similar) to build dashboards, chat interfaces, and agent interaction UIs\nHands-on experience with LLM-based agent frameworks (e.g., LangChain, LangGraph, CrewAI, AutoGen, or custom implementations)\nStrong understanding of prompt engineering, retrieval-augmented generation (RAG), and tool/function calling\nFamiliarity with version control (Git), CI/CD, and containerization (Docker)\nNice-to-Have\nDeep Learning — experience with training or fine-tuning neural networks (PyTorch, TensorFlow)\nComputer Vision (CV) — working knowledge of image/video processing models and pipelines\nAutoML — experience with automated model selection, hyperparameter tuning, and ML pipeline optimization\nDeploying Local LLMs — hands-on experience running open-source models (DeepSeek, Mistral, Qwen, etc.) on-premise or on private infrastructure using tools like vLLM, Ollama, or TGI\nOptimizing LLM Inference — knowledge of quantization (GPTQ, AWQ, GGUF), batching strategies, KV-cache optimization, speculative decoding, and GPU memory management\nExperience with vector databases (Milvus, Pinecone, Weaviate, Qdrant)\nKnowledge of MLOps practices and model monitoring in production\nWhat You Bring\nA problem-solving mindset with a passion for building autonomous, intelligent systems\nAbility to work across the full stack — from model integration to polished user-facing experiences\nStrong communication skills and the ability to explain complex AI concepts to non-technical stakeholders\nA self-driven attitude with a desire to stay current in the rapidly evolving AI agent landscape\nWhat We Offer\nCompetitive salary pegged to experience and market rates (rate review depends on your progress).\nRemote-first culture with a flexible schedule (sync hours overlap with California-time team).\nHardware or cloud-GPU budget for experimentation.\n*ДЛЯ ЗАКЛЮЧЕНИЯ КОНТРАКТА НУЖНО ИМЕТЬ ИП (ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ)\n*В СОПРОВОДИТЕЛЬНОМ ПИСЬМЕ УКАЗАТЬ НЕ НИЖЕ КОТОРОГО ВЫ ГОТОВЫ RATE $ PER 1 HOUR\n*РАБОТОДАТЕЛЬ НЕ РАССМАТРИВАЕТ НИКАКИХ ВОЗМОЖНЫХ СЛУЧАЕВ ПАРТАЙМА, ВЫ МОЖЕТЕ РАБОТАТЬ ТОЛЬКО С НАМИ",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "devs",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-26T19:38:17+0300",
+    "Ссылка": "https://hh.ru/vacancy/130808596",
+    "Отправлено": true,
+    "Вход_слов": 474,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
