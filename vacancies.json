@@ -7465,5 +7465,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "130844587",
+    "Название": "Python / ML Backend-разработчик",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Обязанности:\nРазработка и поддержка микросервисов на Python;\nРазвёртывание, настройка и оптимизация локальных нейросетей (self-hosted LLM, модели компьютерного зрения, NLP);\nИнтеграция ML-моделей в продуктовые сервисы: REST/gRPC API, пайплайны;\nВедение технической документации по API и deployment-процедурам.\nТребования:\nКоммерческий опыт разработки на Python от 3 лет;\nОпыт работы с ML-фреймворками: PyTorch, Hugging Face Transformers, vLLM, Ollama или аналоги;\nОпыт развёртывания и обслуживания ML-моделей в продакшене (не только Jupyter-ноутбуки);\nFastAPI или aiohttp — разработка асинхронных API;\nPostgreSQL, Redis — на уровне уверенного использования;\nDocker (Dockerfile, Compose, работа с GPU в контейнерах);\nПонимание архитектуры микросервисов: очереди (RabbitMQ, Celery, NATS), контракты между сервисами;\nНаписание тестов (pytest).\nБудет плюсом:\nОпыт с LLM: fine-tuning, RAG, prompt engineering, LoRA/QLoRA;\nОпыт работы с ONNX Runtime, TensorRT, Triton Inference Server;\nОпыт с компьютерным зрением (OpenCV, YOLO, OCR);\nОпыт работы с Kubernetes и GPU-нодами;\nPrometheus/Grafana — мониторинг ML-сервисов;\nMLflow, Weights & Biases — трекинг экспериментов.\nУсловия:\nГибкое начало рабочего дня;\nРабота в крупной международной компании;\nСоциальный пакет;\nПроекты федерального и международного масштаба.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': \"You have only -0.059294 on account - it's equal to 0 or below it. Please, add some money to balance to proceed: https://vsegpt.ru/User/Money (51312321401)\", 'code': 400}}",
+    "Компания": "Freedom International Group",
+    "IT": "Нет",
+    "Опубликовано": "2026-02-27T20:01:33+0300",
+    "Ссылка": "https://hh.ru/vacancy/130844587",
+    "Отправлено": true,
+    "Вход_слов": 233,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
