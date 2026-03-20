@@ -9213,5 +9213,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "131425526",
+    "Название": "Lead AI Engineer (LLM / Agents)",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Кто мы\nEVO AI — IT-компания в области AI-консалтинга и генеративного искусственного интеллекта.\nМы разрабатываем и внедряем AI-агентов, ассистентов и комплексные AI-решения для бизнеса, а также развиваем собственную no-code платформу NovaAgent для создания и оркестрации AI-агентов.\nРаботаем с крупным российским и международным бизнесом.\nОт нас ожидают не просто технологию, а глубокое понимание бизнес-процессов и отраслевой специфики клиентов.\nКоротко о роли:\nИщем Lead LLM Engineer, который будет поровну:\nстроить продакшен-системы на базе LLM (агенты, ассистенты, RAG, tool-use, evaluation, observability),\nруководить командой инженеров (планирование, техлидство, качество, найм/менторинг).\nРоль предполагает владение архитектурой end-to-end: от постановки задачи и дизайна решений до вывода в прод, поддержки и развития.\nЗадачи:\n50% Hands-on\nПроектирование и разработка агентских систем: orchestration, multi-agent, planning/execution loops, memory, tool calling.\nПостроение ассистентов: диалоги, контекст, персонализация, безопасность, обработка ошибок и деградаций.\nРеализация RAG: ingest pipelines, chunking, embeddings, hybrid search, reranking, цитирование источников, защита от hallucinations.\nИнтеграция с инструментами/сервисами: внутренние API, БД, очереди, файловые хранилища, CRM/ERP и т.д.\nEvals & качество: тест-наборы, golden datasets, автоматические проверки, A/B, regression, red-teaming.\nНаблюдаемость: трассировки, метрики, логирование, cost/latency оптимизация, rate limits.\nУчастие в выборе моделей, fine-tuning/LoRA/PEFT при необходимости, prompt/system design.\n50% Управление и техлидство:\nРуководство командой инженеров (ML/Backend/Platform): цели, roadmap, декомпозиция, приоритизация, delivery.\nПостроение инженерных практик: code review, CI/CD, quality gates, incident management, SDLC.\nМенторинг: рост инженеров, найм, адаптация, performance feedback.\nКоммуникации со стейкхолдерами: формирование требований, критериев успеха, SLA/SLO.\nТребования:\nОпыт разработки LLM-продуктов в продакшене: ассистенты/агенты/RAG/tool-use.\nСильный software engineering бэкграунд: архитектура сервисов, API, интеграции, отказоустойчивость.\nОпыт people lead (минимум 3–5 человек) или устойчивый опыт техлидства с ответственностью за поставку.\nПрактики качества: тестирование, evals, мониторинг, работа с инцидентами.\nУмение переводить бизнес-задачу в техрешение и метрики результата.\nТехнологический стек:\nLLM / Agents / Assistants\nAgent frameworks: LangGraph / LangChain, LlamaIndex, Semantic Kernel (или аналоги)\nTool calling, function routing, planners/executors, multi-agent patterns\nPrompt/system design, structured outputs (JSON schema, constrained decoding), guardrails\nRAG / Search:\nVector DB: pgvector / Postgres, Pinecone / Weaviate / Milvus / Qdrant\nSearch: Elasticsearch / OpenSearch, hybrid search, rerankers (cross-encoders)\nPipelines: ingestion, chunking, metadata, dedup, doc lifecycle\nBackend / Data / Infra:\nPython (FastAPI), возможно TypeScript/Node.js\nAsync/queues: Kafka / RabbitMQ / Redis Streams, background workers (Celery/RQ)\nStorage: Postgres, Redis, S3-совместимые хранилища\nContainerization: Docker, orchestration: Kubernetes\nCI/CD: GitHub Actions/GitLab CI, IaC (Terraform — плюс)\nObservability / Evals:\nTracing: OpenTelemetry\nMonitoring: Prometheus/Grafana\nLLM observability: Langfuse / Phoenix / Arize (или аналоги)\nEvals: RAG eval, LLM-as-a-judge, human feedback loops, safety testing\nMLOps / Model ops (по необходимости)\nFine-tuning: PEFT/LoRA, vLLM/TGI, model serving\nCost/latency optimization: caching, batching, token budgets\nБудет плюсом:\nОпыт построения “enterprise” ассистентов: роли/права, аудит, DLP, PII masking, безопасность.\nОпыт on-prem / air-gapped контуров.\nОпыт создания внутренних платформ для команд (SDK, templates, best practices).\nОпыт работы с многоязычными сценариями (RU/EN), длинным контекстом, сложными документами.\nМы предлагаем:\nПолностью удалённый формат работы.\nУчастие в ML- проектах федерального уровня.\nРабота в сильной команде экспертов, где ценится открытость, качество и развитие.",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': 'Your subscription end, your account are freezed until renew (51312321401)', 'code': 400}}",
+    "Компания": "EvoAI",
+    "IT": "Да",
+    "Опубликовано": "2026-03-20T15:43:48+0300",
+    "Ссылка": "https://hh.ru/vacancy/131425526",
+    "Отправлено": true,
+    "Вход_слов": 505,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
