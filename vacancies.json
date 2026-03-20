@@ -9194,5 +9194,24 @@
     "Выход_токенов": 0,
     "Время_генерации": 0,
     "Потрачено": 0.0
+  },
+  {
+    "id": "131398469",
+    "Название": "Senior Fullstack Developer (.NET + React)",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Hi!\n\nVelvetech LLC is a US-based software development company with 20+ years on the market, Microsoft Gold Partner status, and a strong engineering culture. We build reliable, long-term technological partnerships with clients across the United States, and we are now expanding our engineering team.\nWe are looking for a Senior Full-Stack Developer with deep experience in .NET and React who enjoys solving complex technical tasks, writing clean and maintainable code, and contributing to high-impact projects used by thousands of users.\nIf you like autonomy, modern processes, and a stable environment — you’ll enjoy working with us.\nWhat You Will Do:\nDesign and develop modern web applications using .NET Core and React\nBuild clean, efficient, scalable code on both the backend and frontend\nImplement user interfaces, ensure responsiveness, and improve performance\nWork closely with product owners, QA, and other engineers in a collaborative environment\nOwn features end-to-end—from concept and architecture to deployment\nWrite documentation, maintain project reports, and participate in code reviews\nStay up-to-date with modern engineering practices, frameworks, and AI-assisted development tools\nWhat We Expect:\n5+ years of hands-on experience with:\n.NET Core\nC#, REST APIs\nSQL databases (MS SQL, PostgreSQL, MySQL)\nORM frameworks (EF, EF Core, NHibernate)\nReact, JavaScript/TypeScript, modern UI patterns\nSOLID principles and clean architecture\nEnglish: Intermediate+ (daily communication with international teams)\nAI-Driven Development Requirements:\nWe actively use AI to speed up development and improve productivity, so the following is required:\nProficiency with AI tools: GitHub Copilot, ChatGPT, Cursor IDE, Tabnine, or similar\nAbility to write strong prompts and understand AI limitations\nUsing AI for debugging, code quality improvements, refactoring, documentation\nWillingness to follow an AI-First SDLC workflow across the team\nNice-to-Have:\nExperience with Docker, Kubernetes\nLinux development experience\nNoSQL databases (MongoDB, Cassandra)\nKnowledge of Python or F#\nStrong problem-solving and system design skills\nRelevant certifications (Azure, AWS)\n\nBenefits:\nVelvetech is in the TOP 5 development companies in Illinois, USA\nYou have FLEXIBLE working conditions and a COOPERATIVE environment\nCompetitive salary\nMany CHALLENGING and exciting projects with new opportunities and learning\nGROWTH opportunities, skills and competencies improvement, and professional certification\nIn-company TRAINING (English, Software / DevOps / Project management / Design / Business)\n\nOur team:\nWe are a friendly team of 170+ professionals where everyone is able to achieve high results and grows professionally not only due to their own knowledge and skills but also with the support of colleagues. Values that we highly appreciate are high performance, responsibility, respect, and loyalty. In order to have a highly motivated team, Velvetech invests in their people, additional education, certification, and others.\n\nYou have a chance to become a part of a friendly and professional team that creates robust software solutions to deliver maximum value to our international clients. Start your journey today!",
+    "Кратко": "Ошибка: Error code: 400 - {'error': {'message': 'Your subscription end, your account are freezed until renew (51312321401)', 'code': 400}}",
+    "Компания": "Velvetech LLC",
+    "IT": "Нет",
+    "Опубликовано": "2026-03-19T22:56:11+0300",
+    "Ссылка": "https://hh.ru/vacancy/131398469",
+    "Отправлено": true,
+    "Вход_слов": 509,
+    "Вход_токенов": 0,
+    "Выход_токенов": 0,
+    "Время_генерации": 0,
+    "Потрачено": 0.0
   }
 ]
