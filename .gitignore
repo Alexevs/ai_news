@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# AI-artifacts
+.ai/
+
 # C extensions
 *.so
 
