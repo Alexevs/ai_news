@@ -9935,5 +9935,24 @@
     "Выход_токенов": 947,
     "Время_генерации": 91318,
     "Потрачено": 0.0
+  },
+  {
+    "id": "131588875",
+    "Название": "Senior BI Developer (MicroStrategy)",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "We are looking for a Senior BI Developer with strong MicroStrategy experience to join a project focused on building a unified marketing analytics layer across commercial, digital, and social data.\nThe focus is on semantic modelling, dashboard development, and translating data into actionable business insights.\nWhat you will be doing\nDesign and build semantic / logical data models in MicroStrategy\n(facts, dimensions, hierarchies, aggregations)\nDevelop interactive dashboards and reports:\nImplement business-critical KPIs:\nEnable drill-down and self-service analytics for business users\nWork closely with marketing stakeholders to translate business questions into data insights\nCollaborate with Data Engineers and Analysts to ensure data consistency and accuracy\nWhat we are looking for\nStrong hands-on experience with MicroStrategy\n(Dossiers, Reports, Metrics, Attributes, Filters, Prompts)\nSolid understanding of BI and data modelling concepts\n(dimensions, measures, hierarchies, aggregations)\nExperience building business-facing dashboards, not just visualisations\nGood SQL skills (data validation, ad-hoc analysis)\nAbility to translate business needs into analytical solutions\nNice-to-have\nExperience with marketing analytics / digital marketing data\nFamiliarity with Snowflake or Google Cloud\nExperience with other BI tools (Power BI, Tableau)",
+    "Кратко": "Эта вакансия подойдёт специалистам по бизнес‑аналитике и разработке отчётов в MicroStrategy, а оказалась в выдаче по запросу о промт‑инжиниринге из‑за упоминания слова «prompts» в списке требуемых навыков.",
+    "Компания": "Itransition",
+    "IT": "Нет",
+    "Опубликовано": "2026-03-26T17:47:37+0300",
+    "Ссылка": "https://hh.ru/vacancy/131588875",
+    "Отправлено": true,
+    "Вход_слов": 273,
+    "Вход_токенов": 611,
+    "Выход_токенов": 510,
+    "Время_генерации": 50820,
+    "Потрачено": 0.0
   }
 ]
