@@ -10752,5 +10752,43 @@
     "Выход_токенов": 1592,
     "Время_генерации": 102789,
     "Потрачено": 0.0
+  },
+  {
+    "id": "131753836",
+    "Название": "Middle ML Engineer",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "Санкт-Петербургский информационно-аналитический центр разрабатывает программные продукты, делающие жизнь горожан проще и комфортнее.\nСреди наших проектов –  Портал госуслуг Санкт-Петербурга,\nпортал «Петербургское образование» и «Электронный дневник»,\nпорталы «Здоровье петербуржца», «Архивы Санкт-Петербурга»,\nVisit Petersburg, мини-приложение во Вконтакте «Я здесь живу»\nи многие другие.\nРаботая в нашей команде, вы каждый день участвуете в цифровизации северной столицы с применением лучших практик и уникальных технологий.\nЧТО БУДЕТ ВХОДИТЬ В ВАШИ ЗАДАЧИ:\nРазработка Multi-Agent систем: Проектирование и реализация оркестрации агентов;\nLLM & NLP пайплайны: Создание сложных RAG-систем с продвинутым поиском;\nFine-tuning & Optimization: Использование Open-source моделей под специфические домены и задачи;\nEvaluation: Разработка систем оценки качества работы агентов и LLM.\nМЫ ВИДИМ НА ЭТОЙ ПОЗИЦИИ ЧЕЛОВЕКА, КОТОРЫЙ ИМЕЕТ:\nОпыт в NLP: Глубокое понимание архитектуры Transformer, механизмов Attention и токенизации;\nРабота с LLM: Практический опыт решения проблем галлюцинаций, управления контекстным окном и оптимизации промптов (Prompt Engineering);\nПроектирование систем: Понимание того, как строить асинхронные пайплайны и работать с очередями сообщений;\nPython: Middle (Asyncio, Pydantic, FastAPI);\nMultimodality: Опыт работы с мультимодальными моделями;\nPipelines: Умение проектировать и разрабатывать LLM-пайплайны.\nУСПЕШНОМУ КАНДИДАТУ МЫ ПРЕДЛАГАЕМ:\nОфициальное трудоустройство в аккредитованной IT компании;\nГрафик работы-5/2, удаленная работа;\nРазвитие и обучение за счет компании;\nМолодой профессиональный коллектив;\nУникальный опыт и возможность внести свой вклад в проекты городского масштаба.",
+    "Кратко": "*1. Требования, навыки, опыт*\n    - промт-инжиниринг: опыт решения проблем галлюцинаций, управление контекстным окном и оптимизация промптов (Prompt Engineering);\n    - работа c ML: практический опыт с LLM, fine-tuning open‑source моделей под специфические домены, создание RAG‑систем, работа с мультимодальными моделями;\n    - программирование: Python на уровне Middle (Asyncio, Pydantic, FastAPI);\n    - soft‑skills: способность работать в команде, коммуникабельность, готовность к обучению;\n    - прочее: понимание архитектуры Transformer, Attention и токенизации; опыт проектирования асинхронных пайплайнов и работы с очередями сообщений; навыки оценки качества работы агентов и LLM.\n*2. Обязанности и ответственность*:\n    - проектирование и реализация оркестрации мульти‑агентных систем;\n    - создание сложных RAG‑систем с продвинутым поиском;\n    - fine‑tuning и оптимизация open‑source моделей под конкретные задачи;\n    - разработка систем оценки качества работы агентов и LLM.",
+    "Компания": "СПб ГКУ Санкт-Петербургский информационно-аналитический центр",
+    "IT": "Да",
+    "Опубликовано": "2026-04-01T16:58:18+0300",
+    "Ссылка": "https://hh.ru/vacancy/131753836",
+    "Отправлено": true,
+    "Вход_слов": 297,
+    "Вход_токенов": 923,
+    "Выход_токенов": 742,
+    "Время_генерации": 636142,
+    "Потрачено": 0.0
+  },
+  {
+    "id": "131755278",
+    "Название": "Video-editor",
+    "От": 500,
+    "До": 700,
+    "Валюта": "USD",
+    "Описание": "Greetings from our friendly and successful team of WGG Digital agency!\nWe are looking for candidates for an internship in the direction of Video-Editing. We need an intern with a high level of English language skills who wants to work with our international clients remotely.\nFriendly relations, achieving results at work and continuous development of employees are our core values. We are really good at helping businesses grow, for example, by increasing turnover 20 times in a year. Our clients include both middle and small businesses, as well as such giants as SAP, Visa Qiwi Wallet, Jaguar and others. We have been operating in the UAE, Saudi Arabia, Turkey and more than 30 other countries for 5 years.\nWe are always glad to see talented people in our team who want to build an international career!\nLet's start with what we'll do for you:\nLarge, foreign and interesting projects to your portfolio;\nThe opportunity to develop professionally, experienced mentors will prompt you and will be there for you;\nNo bureaucracy, openness to suggestions and encouragement of initiative;\nThe opportunity to work with all existing niches - from personal brands to large manufacturing companies.;\nWe will also provide an opportunity for rapid career growth - we have a system for evaluating your development, and you can grow from an intern to the head of your own team.\nWhat will you do:\nEditing short vertical videos;\nBasic color correction, cutting, basic audio work, music selection from stock sources (corporate subscription), motion design (banners, pop-up explanations, text, highlights, etc.);\nMobile editing.\nRequirements:\nYou know the Adobe package (Premier Pro and After Effects (intermediate level), Photoshop and Illustrator (basic level);\nKnowledge and application of English at least B2 level;\nFinished portfolio;\nWork experience of at least 3 months;\nComputer of adequate capacity;\nYou know how to work in a team and treat edits appropriately.\nConditions:\nRemote work;\nFive days, from 10:00 to 19:00 Dubai Time;\nInteresting international projects;\nThe opportunity to grow quickly;",
+    "Кратко": "*Кому подойдёт эта вакансия*: студентам или начинающим специалистам, желающим получить опыт в видеомонтаже и работе с международными клиентами; *Почему она оказалась в выдаче по тематическому запросу*: потому что в описании упоминаются навыки английского языка и удалённая работа, которые могут быть ошибочно ассоциированы с требованиями к промт‑инжинирингу или разработке AI‑агентов.",
+    "Компания": "WGG Marketing Management LLC",
+    "IT": "Нет",
+    "Опубликовано": "2026-04-01T17:26:52+0300",
+    "Ссылка": "https://hh.ru/vacancy/131755278",
+    "Отправлено": true,
+    "Вход_слов": 421,
+    "Вход_токенов": 778,
+    "Выход_токенов": 623,
+    "Время_генерации": 19013,
+    "Потрачено": 0.0
   }
 ]
