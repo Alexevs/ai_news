@@ -10828,5 +10828,24 @@
     "Выход_токенов": 2196,
     "Время_генерации": 53467,
     "Потрачено": 0.0
+  },
+  {
+    "id": "131781508",
+    "Название": "Automated Security Testing Engineer",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "We are looking for an experienced Security Testing Engineer to join our cybersecurity team and help strengthen the security of modern digital systems. In this role, you will conduct security testing, identify vulnerabilities, and provide actionable recommendations to improve the security of web, mobile, and desktop applications.\nKey Responsibilities:\nConduct penetration testing and vulnerability assessments for web, mobile, and desktop applications\nIdentify security vulnerabilities and provide clear remediation recommendations\nDevelop and maintain security testing strategies and methodologies\nPrepare technical documentation and security reports for stakeholders\nCollaborate with engineering and development teams to address security issues and improve system resilience\nRequirements:\n3–5 years of experience in security testing and penetration testing\nRequired Certification (one of the following): CREST Practitioner Security Analyst (CPSA), CREST Registered Penetration Tester (CRT), CREST Certified Tester (CCT), Offensive Security Certified Professional (OSCP)\nExperience testing web, mobile, and desktop applications\nStrong understanding of application security and common vulnerabilities (OWASP Top 10)\nAbility to produce clear, structured security documentation and reports\nStrong analytical and problem-solving skills\nEnglish skills should be sufficient for taking part in conversations on the technical aspects of projects\nNice to have:\nExperience in automating security testing processes (SAST, DAST, SCA) within CI/CD pipelines\nHands-on experience with scripting for automation (Python, Bash, PowerShell)\nExperience integrating security tools into DevSecOps workflows\nAbility to develop custom scripts/tools for vulnerability scanning and exploitation\nExperience with test automation frameworks and orchestration tools (e.g., Jenkins, GitLab CI, GitHub Actions)\nExperience leveraging AI/ML tools to enhance security testing and vulnerability detection\nFamiliarity with AI-assisted code analysis and pentesting tools (e.g., LLM-based assistants, AI fuzzing tools)\nAbility to use AI tools for automation of reporting, vulnerability triage, and threat analysis\nUnderstanding of AI security risks (prompt injection, model abuse, LLM vulnerabilities) is a plus\nWe offer:\nProjects for such clients as PayPal, Wargaming, Xerox, Philips, adidas and Toyota\nCompetitive compensation that depends on your qualification and skills\nCareer development system with clear skill qualifications\nFlexible working hours aligned to your schedule\nOptions to work remotely\nCompensation for medical expenses\nEnglish courses online\nCorporate parties and events for employees and their children\nInternal conferences, workshops and meetups for learning and experience sharing\nGym membership compensation, corporate sport competitions (cybersport included)\n5 days of paid sick leave per year with no obligation to submit a sick-leave certificate",
+    "Кратко": "*Кому подойдёт эта вакансия*: специалистам по тестированию безопасности и пентесту; *Почему она оказалась в выдаче по тематическому запросу*: из‑за упоминания использования AI/ML‑инструментов для улучшения процесса тестирования и выявления уязвимостей.",
+    "Компания": "Itransition",
+    "IT": "Нет",
+    "Опубликовано": "2026-04-02T13:02:09+0300",
+    "Ссылка": "https://hh.ru/vacancy/131781508",
+    "Отправлено": true,
+    "Вход_слов": 463,
+    "Вход_токенов": 900,
+    "Выход_токенов": 324,
+    "Время_генерации": 18028,
+    "Потрачено": 0.0
   }
 ]
