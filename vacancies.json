@@ -11683,5 +11683,43 @@
     "Выход_токенов": 1916,
     "Время_генерации": 117408,
     "Потрачено": 0.0
+  },
+  {
+    "id": "132073597",
+    "Название": "DevSecOps",
+    "От": 270000,
+    "До": 300000,
+    "Валюта": "RUR",
+    "Описание": "Обязанности:\nВнедрение практик безопасности на всех этапах CI/CD;\nУправление уязвимостями и их приоритизация совместно с командами разработки;\nНастройка и поддержка мониторинга безопасности (SIEM, IDS/IPS);\nВнедрение инструментов для защиты больших языковых моделей от специфических атак(Prompt Injection, Model Inversion);\nАвтоматизация проверок кода и инфраструктуры (SAST, DAST, SCA).\nТребования:\nИнфраструктура: Глубокое знание Linux, Docker, Kubernetes (K8s);\nCI/CD инструменты;\nSecrets management: HashiCorp Vault;\nЯзыки программирования: Python, Go или Bash (для написания скриптов автоматизации);\nИнфраструктура как код (IaC): Ansible, Terraform;\nЗнание инструментов для защиты LLM (Prompt Injection, Model Inversion, LLamaGuard, Owasp for LLM);\nMLOps Security;\nПонимание архитектуры RAG.\nЛичные качества:\nСкрупулёзность;\nКоммуникабельность;\nОтветственность;\nПунктуальность;\nИсполнительность;\nСтремление обучаться;\nУсловия:\nГрафик работы: 5/2;\nМесто работы: Дистанционная работа.",
+    "Кратко": "Эта вакансия подойдёт специалистам по безопасности DevOps с опытом защиты больших языковых моделей, а она попала в выдачу из‑за упоминания prompt‑инъекций и методов защиты LLM.",
+    "Компания": "Программный Инжиниринг и Технологии",
+    "IT": "Да",
+    "Опубликовано": "2026-04-13T11:54:53+0300",
+    "Ссылка": "https://hh.ru/vacancy/132073597",
+    "Отправлено": true,
+    "Вход_слов": 203,
+    "Вход_токенов": 652,
+    "Выход_токенов": 383,
+    "Время_генерации": 13361,
+    "Потрачено": 0.0
+  },
+  {
+    "id": "132079348",
+    "Название": "QA Automation Engineer JavaScript (Technical Interviewer)",
+    "От": null,
+    "До": null,
+    "Валюта": null,
+    "Описание": "The Brightman recruitment аgency is looking for a Technical Interviewer (AQA JS) for its large client.\nThe customer is an international IT company specializing in software development, mobile applications, and web development for various industries. The company offers a wide range of services, including custom software development, IT consulting, project management, DevOps, support, and maintenance.\nWith offices in the USA, Europe, and the UK, the customer has established itself as a reliable technology partner on a global scale. The company collaborates with clients from diverse sectors such as financial services, healthcare, logistics, media and entertainment, telecommunications, and more.\nResponsibilities:\nConducting technical interviews with Middle and Senior AQA JS candidates.\nEvaluating candidates strictly according to the established interview matrix.\nCompleting feedback forms after each interview.\nAdhering to feedback procedures and timelines.\nCommunicating with the hiring stakeholders in a dedicated chat.\nResponding promptly to interview requests.\nRequirements:\nExperience as an AQA JS for 4 years.\nStrong knowledge of JavaScript and hands-on experience in test automation (AQA JS).\nProficiency with modern test automation tools.\nUnderstanding of API, UI, and integration testing approaches.\nExperience conducting technical interviews.\nWillingness to work with flexible and irregular scheduling.\nResponsibility, ability to accurately complete assessment matrices, and meet feedback deadlines.\nEnglish proficiency at Intermediate level or higher.\nReasons to join us:\nMentoring and adaptation systems for new employees to integrate comfortably into the team and work.\nA cool young team of like-minded people communicating informally.\nYou'll have a stable and competitive salary and an extensive benefits package.\nAccess to the best educational platforms, seminars, and practices.\nMedical insurance with dental coverage.\nCompensation for the cost of gym memberships.",
+    "Кратко": "Эта вакансия подойдёт специалистам по автоматизированному тестированию на JavaScript, а она попала в выдачу из‑за упоминания технических интервью и работы с тестовыми инструментами, которые могут косвенно относиться к AI‑агентам.",
+    "Компания": "Брайт Эйдженси",
+    "IT": "Нет",
+    "Опубликовано": "2026-04-13T13:25:58+0300",
+    "Ссылка": "https://hh.ru/vacancy/132079348",
+    "Отправлено": true,
+    "Вход_слов": 362,
+    "Вход_токенов": 720,
+    "Выход_токенов": 325,
+    "Время_генерации": 7776,
+    "Потрачено": 0.0
   }
 ]
